@@ -19,7 +19,7 @@
 ;***************************************************************************
 
 #include <avr/io.h>
-#include "main.h"
+#include "SUART.h"
 
 .equ	stopbits, 1
 
